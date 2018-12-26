@@ -8,6 +8,10 @@ this is an example on how to use git and github
 
 ## Purpose
 
+Purpose was already added
+
 ## Deployment
+
+Steps to cover the deployment
 
 ## How to contribute
