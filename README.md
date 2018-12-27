@@ -16,6 +16,8 @@ Steps to cover the deployment
 
 ## How to contribute
 
+Never forget to submmit the pull request for your changes
+
 ### Copyright
 
 Git copyright 2018. All rights are reserved
