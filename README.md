@@ -15,3 +15,7 @@ Purpose was already added
 Steps to cover the deployment
 
 ## How to contribute
+
+### Copyright
+
+Git copyright 2018. All rights are reserved
