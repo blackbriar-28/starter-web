@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Aldo Aranda	highstuff10@gmail.com	airjudok320
 
 # THANKS
 
