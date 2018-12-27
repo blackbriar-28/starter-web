@@ -17,6 +17,7 @@ Steps to cover the deployment
 ## How to contribute
 
 Never forget to submmit the pull request for your changes
+send an email also
 
 ### Copyright
 
