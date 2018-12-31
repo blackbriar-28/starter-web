@@ -4,7 +4,8 @@ Lets learn more git
 
 ## Introduction
 
-this is an example on how to use git and github
+this is an example on how to use git and github.
+Adding more details to the Introduction
 
 ## Purpose
 
