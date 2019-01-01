@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-Lets learn more git
+Lets learn more git.
+Updating this file to avoid penalties
 
 ## Introduction
 
