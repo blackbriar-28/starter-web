@@ -3,3 +3,4 @@
 User-agent: *
 destroy: *
 kill: True 
+#kill humans
